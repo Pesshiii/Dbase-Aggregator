@@ -1,0 +1,21 @@
+
+[
+{
+  "type":"menu",
+  "params":{
+  },
+  "pack":{},
+  "tabs":{
+    "File":[["Open", "open_db"], ["Create", "create_db"], ["Configure", "config_db", "disabled"], ["Close", "close_db", "disabled"]]
+  }
+},
+{
+  "name":"tables",
+  "type":"notebook",
+  "params":{},
+  "pack":{
+    "expand":true,
+    "fill":"both"
+  }
+}
+]
